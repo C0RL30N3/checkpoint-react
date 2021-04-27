@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App{
+  background-color: burlywood;
+}
+#sub.btn.btn-primary{
+  color: darkseagreen;
+  background-color: crimson;
+  border-color: darkkhaki;
+  width: 4cm;
+  height: 1cm;
+}
+.form-label{
+  color: beige;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.form-check-label{
+  color: beige;
+  font-size: 18px;
+}
+.App{
+  padding-left: 150px;
+  padding-right: 150px;
+  border: 50px;
+}
+#formBasicEmail{
+  background-color:;
+}
+#formBasicpassword{
+  background-color:;
+}
