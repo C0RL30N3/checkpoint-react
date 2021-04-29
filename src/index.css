@@ -37,9 +37,12 @@ code {
   padding-right: 150px;
   border: 50px;
 }
-#formBasicEmail{
-  background-color:;
+.Navbar{
+  padding-bottom: 100px;
 }
-#formBasicpassword{
-  background-color:;
+.Carousel{
+padding-top: 100px;
+}
+.navbar-light.bg-light.fixed-top{
+  background-color: crimson;
 }
